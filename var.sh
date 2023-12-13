@@ -1,2 +1,2 @@
 DATE=date
-echo "Hello , Good morning , today date is ${DTAE}"
+echo "Hello , Good morning , today date is ${DATE}"
