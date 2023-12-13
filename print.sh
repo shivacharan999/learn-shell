@@ -14,4 +14,6 @@
 # \e[0m -- zero code is going reset the color, Meaning if we enable color
 #     we need to disable it other wise the color will continue.
 
-echo -e "\e[36m hello world [\0m"
+echo -e "\e[36m hello world \e[0m"
+
+echo Hello world
