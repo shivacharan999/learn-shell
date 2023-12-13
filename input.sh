@@ -8,6 +8,6 @@ echo script name $0 # Script Name
 
 echo All Argumnet = $*
 
-echo All Argumnets = $0
+echo All Argumnets = $#
 
 echo number of  Arguments = $@ 
